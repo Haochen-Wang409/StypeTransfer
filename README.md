@@ -1,6 +1,6 @@
 # StypeTransfer
 
-An unofficial implementation of the style transfer part of the paper "Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation" in ICCV 2023.
+An unofficial implementation of the style transfer part of the paper "Generalize then Adapt: Source-Free Domain Adaptive Semantic Segmentation" in ICCV 2021.
 
 ## Usage
 
